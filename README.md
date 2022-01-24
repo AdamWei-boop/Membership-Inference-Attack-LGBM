@@ -1,4 +1,4 @@
-# Membership Inference Attack
+# Membership Inference Attack with LGBM Model
 Membership inference attack on neural networks with MNIST and CIFAR10 datasets
 
     parser = argparse.ArgumentParser()
